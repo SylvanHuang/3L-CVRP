@@ -5,7 +5,7 @@
 
 # Citing
 
-'''
+```
 @misc{schoepf2024usingreinforcementlearningthreedimensional,
       title={Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem}, 
       author={Stefan Schoepf and Stephen Mak and Julian Senoner and Liming Xu and Netland Torbjörn and Alexandra Brintrup},
@@ -15,4 +15,4 @@
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2307.12136}, 
 }
-'''
+```
