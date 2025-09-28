@@ -5,14 +5,21 @@
 
 # Citing
 
+Paper: https://www.sciencedirect.com/science/article/pii/S2405896325012571
 ```
-@misc{schoepf2024usingreinforcementlearningthreedimensional,
-      title={Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem}, 
-      author={Stefan Schoepf and Stephen Mak and Julian Senoner and Liming Xu and Netland Torbjörn and Alexandra Brintrup},
-      year={2024},
-      eprint={2307.12136},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2307.12136}, 
+@article{SCHOEPF20252939,
+title = {Towards Scalable Three-Dimensional Loading Capacitated Vehicle Routing},
+journal = {IFAC-PapersOnLine},
+volume = {59},
+number = {10},
+pages = {2939-2944},
+year = {2025},
+note = {11th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2025},
+issn = {2405-8963},
+doi = {https://doi.org/10.1016/j.ifacol.2025.09.494},
+url = {https://www.sciencedirect.com/science/article/pii/S2405896325012571},
+author = {Stefan Schoepf and Stephen Mak and Julian Senoner and Liming Xu and Torbjörn Netland and Alexandra Brintrup},
+keywords = {Supply Chain, Vehicle Routing, Optimisation, Reinforcement Learning, Logistics},
+abstract = {Current vehicle routing methods suffer from non-linear scaling with increasing problem size and are therefore bound to limited geographic areas to compute results in time for day-to-day operations. This only allows for local optima in routing and leaves global optimization potential untouched. We develop a reinforcement learning model to approximately solve the three-dimensional loading capacitated vehicle routing problem in linear time. We demonstrate the linear time scaling of our reinforcement learning model and benchmark our routing performance against state-of-the-art methods. Our results show a promising first step towards large-scale logistics optimization with reinforcement learning.}
 }
 ```
