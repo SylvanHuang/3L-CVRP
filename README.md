@@ -5,7 +5,8 @@
 
 # Citing
 
-Paper: https://www.sciencedirect.com/science/article/pii/S2405896325012571
+Paper (no appendix): https://www.sciencedirect.com/science/article/pii/S2405896325012571
+Preprint with appendix: https://www.researchgate.net/publication/389511132_Towards_Scalable_Three-Dimensional_Loading_Capacitated_Vehicle_Routing
 ```
 @article{SCHOEPF20252939,
 title = {Towards Scalable Three-Dimensional Loading Capacitated Vehicle Routing},
